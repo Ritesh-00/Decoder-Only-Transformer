@@ -2,3 +2,6 @@
 **/*.parquet
 **/*.json
 **/*.jsonl
+
+#trained tokenizer
+!ml-service/notebooks/py_code_tokenizer.json
