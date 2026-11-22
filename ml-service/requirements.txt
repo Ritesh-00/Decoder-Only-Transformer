@@ -1,0 +1,20 @@
+
+# Core deep learning
+torch
+numpy
+
+# Dataset downloading and processing
+requests
+tqdm
+datasets
+
+# Tokenization for larger datasets (BPE / subword)
+tokenizers
+
+# Data handling and evaluation
+pandas
+matplotlib
+scikit-learn
+
+# Configuration and checkpoint utilities
+PyYAML
